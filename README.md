@@ -1,3 +1,4 @@
+
 # ShopAdmin | Intelligent E-Commerce Admin Dashboard
 
 > A modern, feature-rich, fully responsive, and production-ready E-Commerce Administrative Dashboard built with **React 19**, **TypeScript**, **Vite 8**, and **Tailwind CSS v4** featuring native **RTL (Right-to-Left)** support.
@@ -37,7 +38,7 @@ The user interface is engineered with pixel accuracy based on professional Googl
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" alt="ShopAdmin Demo" width="100%" />
+<img width="800" height="450" alt="IMG_7557-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/df2e3727-4c4d-4127-b304-08b8e5bbade0" />
 
 </div>
 
