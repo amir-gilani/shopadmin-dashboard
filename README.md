@@ -32,6 +32,16 @@ The user interface is engineered with pixel accuracy based on professional Googl
 > A visual preview of the ShopAdmin dashboard, showcasing the RTL interface, analytics, order management, inventory, and e-commerce administration experience.
 
 ---
+
+## 🎬 Demo
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" alt="ShopAdmin Demo" width="100%" />
+
+</div>
+
+---
 ## ✨ Key Features & Modules
 
 ### 1. Interactive Analytics Dashboard (`/`)
