@@ -1,0 +1,6 @@
+{
+  "name": "ShopAdmin | پنل مدیریت هوشمند فروشگاه اینترنتی",
+  "description": "سامانه جامع و پیشرفته مدیریت فروشگاه اینترنتی، سفارش‌ها، محصولات، انبارداری، مشتریان، گزارش‌های مالی و تخفیف‌ها به صورت کاملاً فارسی و راست‌چین (RTL)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,80 @@
+import { ProductReview } from '../types';
+
+export const initialReviews: ProductReview[] = [
+  {
+    id: 'rev-1',
+    customerName: 'نیلوفر کریمی',
+    customerInitials: 'ن.ک',
+    avatarBg: 'bg-purple-50',
+    avatarColor: 'text-purple-600',
+    customerBadge: 'خریدار تایید شده',
+    productName: 'هدفون نویز کنسلینگ سونی XM5',
+    productCode: 'SN-9942',
+    rating: 5.0,
+    content: 'کیفیت صدای عالی و نویز کنسلینگ فوق‌العاده. بسته‌بندی عالی بود و سریع ارسال شد.',
+    status: 'approved',
+    date: 'امروز، ۱۴:۲۰',
+    hasPhoto: true
+  },
+  {
+    id: 'rev-2',
+    customerName: 'محمد حسینی',
+    customerInitials: 'م.ح',
+    avatarBg: 'bg-blue-50',
+    avatarColor: 'text-blue-600',
+    customerBadge: 'خریدار طلایی VIP',
+    productName: 'لپ‌تاپ ایسوس ROG Zephyrus',
+    productCode: 'AS-4100',
+    rating: 4.0,
+    content: 'کانفیگ دستگاه بسیار قدرتمند است ولی در پردازش‌های سنگین کمی گرمای بدنه بالاست.',
+    status: 'pending',
+    date: 'دیروز، ۱۸:۴۵',
+    hasPhoto: false
+  },
+  {
+    id: 'rev-3',
+    customerName: 'علیرضا رادپور',
+    customerInitials: 'ع.ر',
+    avatarBg: 'bg-amber-50',
+    avatarColor: 'text-amber-600',
+    customerBadge: 'خریدار',
+    productName: 'ساعت هوشمند اپل واچ ۹',
+    productCode: 'AP-9011',
+    rating: 5.0,
+    content: 'همه‌چیز فابریک و با گارانتی معتبر شرکتی ارسال شد. ممنون از تیم شاپ‌ادمین.',
+    status: 'replied',
+    date: '۳ روز پیش',
+    hasPhoto: true,
+    replyText: 'با تشکر از اعتماد شما کاربر گرامی، امیدواریم از استفاده از ساعت نهایت لذت را ببرید.'
+  },
+  {
+    id: 'rev-4',
+    customerName: 'سارا طاهری',
+    customerInitials: 'س.ط',
+    avatarBg: 'bg-slate-100',
+    avatarColor: 'text-slate-600',
+    customerBadge: 'کاربر وب‌سایت',
+    productName: 'کیبورد مکانیکال Keychron K2',
+    productCode: 'KC-204',
+    rating: 3.0,
+    content: 'سوئیچ‌ها کیفیت خوبی دارن اما تاخیر در اتصال بلوتوث گهگاهی پیش میاد.',
+    status: 'approved',
+    date: '۵ روز پیش',
+    hasPhoto: false
+  },
+  {
+    id: 'rev-5',
+    customerName: 'فرشاد نادری',
+    customerInitials: 'ف.ن',
+    avatarBg: 'bg-rose-50',
+    avatarColor: 'text-rose-600',
+    customerBadge: 'خریدار ناراضی',
+    productName: 'کابل فست انکر تایپ‌سی',
+    productCode: 'AN-1088',
+    rating: 1.0,
+    content: 'کالای ارسالی با مدل سفارش داده شده مطابقت نداشت و باز پس فرستادم.',
+    status: 'needs_action',
+    date: 'هفته گذشته',
+    hasPhoto: false
+  }
+];
